@@ -1,0 +1,7 @@
+
+/**
+Fix up the sizing for long build names
+*/
+.build-row .pane.build-details {
+   padding-top: 3em;
+}
